@@ -1,0 +1,6 @@
+aiohttp
+aiofiles
+aiodns
+attrs
+multidict
+yarl
