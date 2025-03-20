@@ -1,5 +1,5 @@
 # JFK
-An archive.gov link extractor and file downloader. Made for the "[JFK Assassination Records - 2025 Documents Release](https://www.archives.gov/research/jfk/release-2025)". 
+An archives.gov link extractor and file downloader. Made for the "[JFK Assassination Records - 2025 Documents Release](https://www.archives.gov/research/jfk/release-2025)". 
 
 ## Prerequisites
 - [Tampermonkey](https://www.tampermonkey.net/), [Violentmonkey](https://violentmonkey.github.io/), or other Userscript manager
