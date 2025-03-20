@@ -2,7 +2,7 @@
 // @name         Extract JFK Release Links
 // @namespace    http://tampermonkey.net/
 // @version      1.2
-// @description  Extracts All Link to txt
+// @description  Extracts All Links To TXT
 // @match        https://www.archives.gov/research/jfk/release-2025
 // @grant        none
 // ==/UserScript==
