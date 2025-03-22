@@ -28,7 +28,7 @@ An archives.gov link extractor and file downloader. Made for the "[JFK Assassina
 
 5. You're Done
 ### Link Extractor Usage
-1. Navigate to https://www.archives.gov/research/jfk/release-2025
+1. Navigate to `archives.gov` page
 2. Click "Show All entries"
 
 <img width="200" alt="Screen Shot 2025-03-19 at 7 08 38 PM" src="https://github.com/user-attachments/assets/50e1237d-91be-43bb-b5c2-45c696b96239" />
@@ -46,12 +46,12 @@ An archives.gov link extractor and file downloader. Made for the "[JFK Assassina
 ### Downloader Instructions
 1. Download "dwn.py" and "requirements.txt"
 2. Make a new directory (eg. "JFK", "Files", etc..")
-3. Place "dwn.py", "requirements.txt", and your "JFK_Release_Links.txt" into said directory
+3. Place "dwn.py", "requirements.txt", and your "Release_Links.txt" into said directory
 4. Open your Terminal or Command Prompt
 5. `cd` into your newly made directory
 6. Use `ls` or `dir` to confirm that you are in the directory with the files
 7. Run ```pip install -r requirements.txt```
-8. Run ```python3 dwn.py JFK_Release_Links.txt```
+8. Run ```python3 dwn.py Release_Links.txt```
 9. You're Done!
 
 
