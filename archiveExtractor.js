@@ -1,9 +1,10 @@
 // ==UserScript==
-// @name         Extract JFK Release Links
+// @name         Extract National Archives Release Links
 // @namespace    http://tampermonkey.net/
 // @version      1.2
 // @description  Extracts All Links To TXT
 // @match        https://www.archives.gov/research/jfk/release-2025
+// @match        https://www.archives.gov/*
 // @grant        none
 // ==/UserScript==
 
@@ -36,7 +37,7 @@
             linkList += href + "\n";
         });
 
-        downloadFile(linkList, "JFK_Release_Links.txt");
+        downloadFile(linkList, "Release_Links.txt");
         console.log("Download initiated.");
     }
 
