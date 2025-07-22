@@ -4,6 +4,7 @@
 // @version      1.2
 // @description  Extracts All Links To TXT
 // @match        https://www.archives.gov/research/jfk/release-2025
+// @match        https://www.archives.gov/research/mlk
 // @match        https://www.archives.gov/*
 // @grant        none
 // ==/UserScript==
