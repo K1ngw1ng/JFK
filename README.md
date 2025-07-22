@@ -1,5 +1,5 @@
 # JFK
-An archives.gov link extractor and file downloader. Made for the "[JFK Assassination Records - 2025 Documents Release](https://www.archives.gov/research/jfk/release-2025)". 
+An archives.gov link extractor and file downloader. Made for the "[JFK Assassination Records - 2025 Documents Release](https://www.archives.gov/research/jfk/release-2025)" and [MLK Records Release 2025](https://www.archives.gov/research/mlk). 
 
 ## Prerequisites
 - [Tampermonkey](https://www.tampermonkey.net/), [Violentmonkey](https://violentmonkey.github.io/), or other Userscript manager
@@ -45,7 +45,7 @@ An archives.gov link extractor and file downloader. Made for the "[JFK Assassina
 
 ### Downloader Instructions
 1. Download "dwn.py" and "requirements.txt"
-2. Make a new directory (eg. "JFK", "Files", etc..")
+2. Make a new directory (eg. "JFK", "MLK", "Files", etc..")
 3. Place "dwn.py", "requirements.txt", and your "Release_Links.txt" into said directory
 4. Open your Terminal or Command Prompt
 5. `cd` into your newly made directory
